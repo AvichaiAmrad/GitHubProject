@@ -36,3 +36,6 @@ def update_bar_chart(selected_city):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+
+#print ("ASDasd")
